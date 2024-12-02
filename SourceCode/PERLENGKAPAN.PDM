@@ -1,0 +1,266 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\Master Semarang\Perlengkapan Blora\Setup
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+U2LSAMP1.DLL=
+U2LFINRA.DLL=
+U2LEXCH.DLL=
+U2LESBSE.DLL=
+U2LDTS.DLL=
+U2LCOM.DLL=
+U2LBAR.DLL=
+U2L2000.DLL=
+U25TOTAL.DLL=
+U25STORE.DLL=
+U25DTS.DLL=
+U2FRDEF.DLL=
+U2FODBC.DLL=
+U2DVIM.DLL=
+U2DPOST.DLL=
+U2DNOTES.DLL=
+P2SWBLG.DLL=
+P2STRACK.DLL=
+P2SSYB10.DLL=
+P2SSQL.DLL=
+P2SREPL.DLL=
+P2SOUTLK.DLL=
+P2SORA7.DLL=
+P2SMAPI.DLL=
+P2SIFMX.DLL=
+P2SEXSR.DLL=
+P2SDB2.DLL=
+P2SACL.DLL=
+P2OESBSE.DLL=
+P2LODBC.DLL=
+P2IXBSE.DLL=
+P2IRACT.DLL=
+P2CTBTRV.DLL=
+P2BXBSE.DLL=
+P2BBTRV.DLL=
+P2BBDE.DLL=
+P2BACT.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Adobe\Photoshop CS\Photoshop.exe=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\DBGRID32.OCX=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\MSMASK32.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\IMPLODE.DLL=Yes
+C:\WINDOWS\system32\ccsdk32.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\CRXLAT32.DLL=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\system32\p2sevt.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\system32\U2DDISK.DLL=Yes
+C:\WINDOWS\system32\U2DMAPI.DLL=Yes
+C:\WINDOWS\system32\U2FCR.DLL=Yes
+C:\WINDOWS\system32\U2FDIF.DLL=Yes
+C:\WINDOWS\system32\U2FHTML.DLL=Yes
+C:\WINDOWS\system32\U2FREC.DLL=Yes
+C:\WINDOWS\system32\U2FRTF.DLL=Yes
+C:\WINDOWS\system32\U2FSEPV.DLL=Yes
+C:\WINDOWS\system32\U2FTEXT.DLL=Yes
+C:\WINDOWS\system32\U2FWKS.DLL=Yes
+C:\WINDOWS\system32\U2FWORDW.DLL=Yes
+C:\WINDOWS\system32\U2FXLS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\Master Semarang\Perlengkapan Blora\SOURCECODE\PERLENGKAPAN.exe=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\p2bact.dll=Yes
+C:\WINDOWS\system32\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbtrv.dll=Yes
+C:\WINDOWS\system32\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctbtrv.dll=Yes
+C:\WINDOWS\system32\p2iract.dll=Yes
+C:\WINDOWS\system32\p2ixbse.dll=Yes
+C:\WINDOWS\system32\p2lodbc.dll=Yes
+C:\WINDOWS\system32\p2oesbse.dll=Yes
+C:\WINDOWS\system32\p2sacl.dll=Yes
+C:\WINDOWS\system32\p2sdb2.dll=Yes
+C:\WINDOWS\system32\p2sexsr.dll=Yes
+C:\WINDOWS\system32\p2sifmx.dll=Yes
+C:\WINDOWS\system32\p2smapi.dll=Yes
+C:\WINDOWS\system32\p2sora7.dll=Yes
+C:\WINDOWS\system32\p2soutlk.dll=Yes
+C:\WINDOWS\system32\p2srepl.dll=Yes
+C:\WINDOWS\system32\p2ssql.dll=Yes
+C:\WINDOWS\system32\p2ssyb10.dll=Yes
+C:\WINDOWS\system32\p2strack.dll=Yes
+C:\WINDOWS\system32\p2swblg.dll=Yes
+C:\WINDOWS\system32\u2dnotes.dll=Yes
+C:\WINDOWS\system32\u2dpost.dll=Yes
+C:\WINDOWS\system32\u2dvim.dll=Yes
+C:\WINDOWS\system32\u2fodbc.dll=Yes
+C:\WINDOWS\system32\u2l2000.dll=Yes
+C:\WINDOWS\system32\u2lcom.dll=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+O:\Master Semarang\Perlengkapan\SOURCECODE\PERLENGKAPAN.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ccsdk32.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\CRXLAT32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sevt.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\U2DDISK.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2DMAPI.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FCR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FDIF.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FHTML.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FREC.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FRTF.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FSEPV.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FTEXT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FWKS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FWORDW.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FXLS.DLL=$(WinSysPath)
+C:\Program Files\Adobe\Photoshop CS\Photoshop.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\Master Semarang\Perlengkapan Blora\SOURCECODE\PERLENGKAPAN.exe=$(AppPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2bact.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2iract.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ixbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2lodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2oesbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sacl.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sdb2.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sexsr.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2soutlk.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2srepl.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2strack.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2swblg.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+O:\Master Semarang\Perlengkapan\SOURCECODE\PERLENGKAPAN.exe=Yes
+C:\Program Files\Adobe\Photoshop CS\Photoshop.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Master Semarang\Perlengkapan Blora\SOURCECODE\PERLENGKAPAN.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=PERLENGKAPAN
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=PERLENGKAPAN
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|PERLENGKAPAN]
+Icon1=PERLENGKAPAN.exe
+Title1=PERLENGKAPAN
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=F:\Master Semarang\Perlengkapan Blora\Setup
+ProjectFolder=F:\Master Semarang\Perlengkapan Blora\SOURCECODE
+ServerSideCab=
+File1=F:\Master Semarang\Perlengkapan Blora\Setup\setup.exe
+File2=F:\Master Semarang\Perlengkapan Blora\Setup\Setup.Lst
+File3=F:\Master Semarang\Perlengkapan Blora\Setup\PERLENGKAPAN.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
